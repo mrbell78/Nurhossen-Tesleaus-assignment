@@ -31,7 +31,7 @@
                 android:text="Expert Listing"
                 android:textColor="@android:color/white"
                 android:layout_centerHorizontal="true"
-                android:textSize="20sp"/>
+                android:textSize="18sp"/>
 
 
         </RelativeLayout>
